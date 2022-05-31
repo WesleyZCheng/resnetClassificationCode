@@ -1,0 +1,5 @@
+data_set/
+resNet34.pth
+pth/
+.idea/
+__pycache__/
